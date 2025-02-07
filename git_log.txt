@@ -1,0 +1,75 @@
+commit 2b6496f3562a61fe7006b2650421380f2be0a0af
+Merge: f37cdce 631ff39
+Author: bleooo <120147045+bleooo@users.noreply.github.com>
+Date:   Fri Feb 7 10:39:03 2025 -0800
+
+    Merge pull request #1 from bleooo/feature-about-me
+    
+    Feature about me
+
+commit 631ff39a0ab4a2b2c8e1e0b36bfed542b57b6b37
+Merge: ef80ba0 f37cdce
+Author: bleooo <120147045+bleooo@users.noreply.github.com>
+Date:   Fri Feb 7 10:38:49 2025 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 5dab2564648f42448af2ff47db197bdbdbf615aa
+Merge: ef80ba0 9166833
+Author: bleooo <danielgaong@gmail.com>
+Date:   Fri Feb 7 10:36:25 2025 -0800
+
+    On feature-about-me: !!GitHub_Desktop<feature-about-me>
+
+commit 91668334b4a25287a49be05706149ac72b1ff6ce
+Author: bleooo <danielgaong@gmail.com>
+Date:   Fri Feb 7 10:36:25 2025 -0800
+
+    index on feature-about-me: ef80ba0 Update index.html
+
+commit ef80ba02e2df2f20bc4e5536987770d1e4d1185d
+Author: bleooo <danielgaong@gmail.com>
+Date:   Fri Feb 7 10:28:43 2025 -0800
+
+    Update index.html
+    
+    updated div with my info
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
